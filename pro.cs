@@ -15,6 +15,7 @@ namespace Github
             int eredmeny = x + y;
 
             Console.WriteLine(eredmeny);
+            Console.ReadKey();
         }
     }
 }
