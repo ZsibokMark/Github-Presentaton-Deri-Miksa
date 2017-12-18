@@ -10,12 +10,13 @@ namespace Github
     {
         static void Main(string[] args)
         {
-            
-            int x = Console.ReadLine();
-            int y = Console.ReadLine();
+            Console.WriteLine("Kérek egy számot");
+            int x = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("Kérek egy másik számot");
+            int y = Int32.Parse(Console.ReadLine());
             int eredmeny = x + y;
 
-            Console.WriteLine(eredmeny);
+            Console.WriteLine("Az eredmény: {0}", eredmeny);
             Console.ReadKey();
         }
     }
