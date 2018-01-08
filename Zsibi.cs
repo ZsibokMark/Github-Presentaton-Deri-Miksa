@@ -1,0 +1,1 @@
+string asd="Anyád picsája";
