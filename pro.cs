@@ -14,7 +14,7 @@ namespace Github
             int x = Int32.Parse(Console.ReadLine());
             Console.WriteLine("Kérek egy másik számot");
             int y = Int32.Parse(Console.ReadLine());
-            int eredmeny = x + y;
+            int eredmeny = x - y;
 
             Console.WriteLine("Az eredmény: {0}", eredmeny);
             Console.ReadKey();
