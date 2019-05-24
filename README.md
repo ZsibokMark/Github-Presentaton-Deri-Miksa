@@ -4,7 +4,7 @@
 ===================
 
 
-Ez a tároló azért jött létre, hogy az iskolába járó diákok megismerkedjenek a **Githubbal**, mint fejlesztő eszközzel.
+Ez a tároló nem azért jött létre, hogy az iskolába járó diákok megismerkedjenek a **Githubbal**, mint fejlesztő eszközzel.
 
 
 
